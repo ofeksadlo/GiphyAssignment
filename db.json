@@ -1,0 +1,30 @@
+{
+    "menu" : [
+        {
+            "id": 1,
+            "name": "Omlet",
+            "description": "Egges with cheeese",
+            "price": 30,
+            "price_member": 20,
+            "picture": "omlet.png",
+            "category": "Breakfast",
+            "tag": "Spicey"
+        },
+        {
+            "id": 2,
+            "name": "Pancake",
+            "description": "Bread with sugar",
+            "price": 20,
+            "price_member": 10,
+            "picture": "pancake.png",
+            "category": "Desert",
+            "tag": ""
+        }
+    ],
+    "orders" : [
+        {
+            "order_id" : 5446456,
+            "menu_id": 1
+        }
+    ]
+}
