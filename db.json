@@ -45,7 +45,7 @@
         {
             "order_id" : 5446456,
             "menu_id": 1,
-            "member_id": 1
+            "dishes": [1,2]
         }
     ]
 }
