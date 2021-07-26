@@ -37,7 +37,8 @@
             "first_name": "אופק",
             "last_name": "סדלובסקי",
             "email": "ofeksadlo@gmail.com",
-            "password": "123456"
+            "password": "123456",
+            "isAdmin": 1
         }
     ],
     "orders" : [
