@@ -43,9 +43,12 @@
     ],
     "orders" : [
         {
-            "order_id" : 5446456,
-            "member_id": 1,
-            "dishes": [1,2]
+            "order_id" : 1,
+            "client_name": "אופק סדלובסקי",
+            "client_address": "ירושלים 48 בת ים",
+            "totalPrice": 100,
+            "dishes": [1,2,2,2],
+            "status": "בהכנה"
         }
     ]
 }
